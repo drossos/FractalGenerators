@@ -40,7 +40,7 @@ def drawSqr(cntr,size,step,divideFactor):
 
 
 #degree of the fractal
-step = 5
+step = 4
 drawSqr(cntr, size, step, divideFactor)
 
 #shows the image in new window
